@@ -1,5 +1,5 @@
 This is basic portfolio page 
-used tchnology stack are HTML, CSS, JAVASCRIPT 
+used technology stack are HTML, CSS, JAVASCRIPT 
 
 DESIGNED IN FIGMA 
 
